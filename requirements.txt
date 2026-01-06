@@ -1,0 +1,14 @@
+time 
+re
+os 
+shutil
+selenium
+typing
+retrying
+dotenv
+langchain_community
+langchain_text_splitters
+langchain
+langchain_openai
+argparse
+langchain_chroma
